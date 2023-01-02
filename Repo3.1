@@ -1,0 +1,113 @@
+{
+ "cells": [
+  {
+   "cell_type": "code",
+   "execution_count": 134,
+   "id": "7a24ef61",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "#Usando las bibliotecas para poder conectarse a la web y extraer información\n",
+    "import urllib.request, urllib.parse, urllib.error\n",
+    "from bs4 import BeautifulSoup\n"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 135,
+   "id": "abca0aca",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "#Comportamiento para 1 repositorio\n",
+    "html = urllib.request.urlopen(\"https://tesis.pucp.edu.pe/repositorio/handle/20.500.12404/5810?show=full\").read()\n",
+    "soup = BeautifulSoup(html, 'html.parser')\n"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 136,
+   "id": "38293e85",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "#Extrayendo datos de la tabla de la tesis \n",
+    "tabla1 = soup.find_all(\"td\", class_=\"word-break\")\n",
+    "\n",
+    "\n",
+    "\n"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 159,
+   "id": "54141a00",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "#Extrayendo lo que pide para el repositorio\n",
+    "universidad=tabla1[10].text\n",
+    "titulo=tabla1[17].text\n",
+    "tesista=tabla1[1].text\n",
+    "grado=tabla1[20].text\n",
+    "asesor=tabla1[0].text\n",
+    "resumen=tabla1[7].text\n",
+    "año=str(tabla1[2].text)[0:4]\n",
+    "\n",
+    "\n",
+    "\n",
+    " \n"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 160,
+   "id": "893e93e3",
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "'2015'"
+      ]
+     },
+     "execution_count": 160,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "año"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "7393451a",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "Python 3 (ipykernel)",
+   "language": "python",
+   "name": "python3"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.9.12"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 5
+}
