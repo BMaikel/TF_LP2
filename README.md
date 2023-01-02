@@ -1,9 +1,8 @@
 
 # Trabajo Encargado Final
-
 <div>
 <p style = 'text-align:center;'>
-<img src="https://i.pinimg.com/originals/4c/d6/ea/4cd6eaa599851725aa5a195d162fb20d.gif" alt="1" width="600px">
+<img src="https://i.pinimg.com/originals/4c/d6/ea/4cd6eaa599851725aa5a195d162fb20d.gif" alt="1" width="800px">
 </p>
 </div>
 
@@ -29,13 +28,13 @@ institucionales de las universidades
 ### 1. Universidad De Lima
 <div>
 <p style = 'text-align:center;'>
-<img src="https://orientacion.universia.edu.pe/imgs2011/imagenes/banner_T2019M07D25_111507@2x.gif" alt="ULima" width="600px">
+<img src="https://orientacion.universia.edu.pe/imgs2011/imagenes/banner_T2019M07D25_111507@2x.gif" alt="ULima" width="800px">
 </p>
 </div>
 
 ### 2. Nombre de la Uni 2 
 
-https://i.ibb.co/v4jPysr/Captura.png
+
 ### 3. Nombre de la Uni 3
 
 ---
