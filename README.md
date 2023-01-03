@@ -18,7 +18,7 @@ Trabajo final para el curso de LP2\
 ## Integrantes:
 - Bañares Gutierrez, Michel Alexis - 20210824
 - Estrella Palacios, Alexandre Jamil - 20191303
--
+- Carrasco Castañeda, Edwar Frank    - 20210827
 
 ## Descripción del caso:
 Se quiere obtenerinformación estructuradas de las tesis de pre grado y pos grado de Estadística,
@@ -39,7 +39,9 @@ institucionales de las universidades
 </p>
 </div>
 
-### 3. Nombre de la Uni 3
-
----
-![a](https://pbs.twimg.com/media/Cc9v87PW0AI93Ff.jpg)
+### 3. Pontificia Universidad Católica del Perú
+<div>
+<p style = 'text-align:center;'>
+<img src="[https://web.lamolina.edu.pe/ppl/templates/img/logo-unalm.png](https://estudiaperu.pe/wp-content/uploads/2021/04/PUCP-virtual-Cursos-de-pregrado-y-maestrias-a-distancia-1.jpg)" alt="ULima" width="800px">
+</p>
+</div>
