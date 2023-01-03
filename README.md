@@ -23,7 +23,7 @@ institucionales de las universidades
 ### 1. Universidad De Lima
 <div>
 <p style = 'text-align:center;'>
-<img src="https://orientacion.universia.edu.pe/imgs2011/imagenes/banner_T2019M07D25_111507@2x.gif" alt="ULima" width="800px">
+<img src="https://orientacion.universia.edu.pe/imgs2011/imagenes/banner_T2019M07D25_111507@2x.gif" alt="ULima" width="900px">
 </p>
 </div>
 
