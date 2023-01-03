@@ -37,7 +37,7 @@ institucionales de las universidades
 ### 3. Pontificia Universidad Católica del Perú
 <div>
 <p style = 'text-align:center;'>
-<img src="https://estudiaperu.pe/wp-content/uploads/2021/04/PUCP-virtual-Cursos-de-pregrado-y-maestrias-a-distancia-1.jpg" alt="PUCP" width="900px">
+<img src="https://estudiaperu.pe/wp-content/uploads/2021/04/PUCP-virtual-Cursos-de-pregrado-y-maestrias-a-distancia-1.jpg" alt="PUCP" width="700px">
 </p>
 </div>
 
