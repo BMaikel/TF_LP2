@@ -41,7 +41,7 @@ institucionales de las universidades
 </p>
 </div>
 
-### 3. EXTRA: Universidad de Chile
+### 4. EXTRA: Universidad de Chile
 
 <div>
 <p style = 'text-align:center;'>
