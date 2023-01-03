@@ -9,11 +9,6 @@
 Trabajo final para el curso de LP2\
 **Semestre**: 2022-II\
 **Profesora**: Ana Vargas
-<div>
-<p style = 'text-align:center;'>
-<img src="https://i.ibb.co/RH5GbDp/de6c14ed-a7dc-4bef-926d-f92943328a2f.jpg" alt="ULima" width="300px">
-</p>
-</div>
 
 ## Integrantes:
 - Bañares Gutierrez, Michel Alexis - 20210824
