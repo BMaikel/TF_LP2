@@ -17,7 +17,7 @@ Trabajo final para el curso de LP2\
 
 ## Integrantes:
 - Bañares Gutierrez, Michel Alexis - 20210824
--
+- Estrella Palacios, Alexandre Jamil - 20191303
 -
 
 ## Descripción del caso:
@@ -32,8 +32,12 @@ institucionales de las universidades
 </p>
 </div>
 
-### 2. Nombre de la Uni 2 
-
+### 2. Universidad Nacional Agraria la Molina
+<div>
+<p style = 'text-align:center;'>
+<img src="https://web.lamolina.edu.pe/ppl/templates/img/logo-unalm.png" alt="ULima" width="800px">
+</p>
+</div>
 
 ### 3. Nombre de la Uni 3
 
