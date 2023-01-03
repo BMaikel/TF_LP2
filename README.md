@@ -30,7 +30,7 @@ institucionales de las universidades
 ### 2. Universidad Nacional Agraria la Molina
 <div>
 <p style = 'text-align:center;background-color:#FFFFFF;'>
-<img src="https://web.lamolina.edu.pe/ppl/templates/img/logo-unalm.png" alt="UNALM" width="800px">
+<img src="https://web.lamolina.edu.pe/ppl/templates/img/logo-unalm.png" alt="UNALM" width="900px">
 </p>
 </div>
 
