@@ -2,7 +2,7 @@
 # Trabajo Encargado Final
 <div>
 <p style = 'text-align:center;'>
-<img src="https://i.pinimg.com/originals/4c/d6/ea/4cd6eaa599851725aa5a195d162fb20d.gif" alt="1" width="800px">
+<img src="https://i.pinimg.com/originals/4c/d6/ea/4cd6eaa599851725aa5a195d162fb20d.gif" alt="1" width="900px">
 </p>
 </div>
 
