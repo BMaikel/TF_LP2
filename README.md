@@ -42,6 +42,6 @@ institucionales de las universidades
 ### 3. Pontificia Universidad Católica del Perú
 <div>
 <p style = 'text-align:center;'>
-<img src="https://web.lamolina.edu.pe/ppl/templates/img/logo-unalm.png](https://estudiaperu.pe/wp-content/uploads/2021/04/PUCP-virtual-Cursos-de-pregrado-y-maestrias-a-distancia-1.jpg" alt="ULima" width="800px">
+<img src="https://estudiaperu.pe/wp-content/uploads/2021/04/PUCP-virtual-Cursos-de-pregrado-y-maestrias-a-distancia-1.jpg" alt="PUCP" width="800px">
 </p>
 </div>
